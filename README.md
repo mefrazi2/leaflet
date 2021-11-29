@@ -304,3 +304,4 @@ polygon.setStyle({fillColor: '#400080'});
 polygon.setStyle({color: '#340067'});
 </script>
 </body>
+</center>
